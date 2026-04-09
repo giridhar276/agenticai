@@ -1,0 +1,160 @@
+
+
+objects 
+- number
+- string
+- list
+- tuple
+- dictionary 
+- set
+
+- methods
+- conditions , iterations
+- file handling 
+- exception handling 
+- libraries 
+   . builtin libraries 
+   . third party libraries 
+- OOPs
+
+
+
+
+agentic ai 
+------------
+
+
+python programming
+
+data analytics ( pandas , matplotlib , numpy )
+
+machine learning ( regression , classfication)
+
+generative ai ( summarisation , sentiment analysis ,language trasilation )
+
+agents
+
+agentic ai 
+
+
+
+                        pandasV1.0
+2000                     2010                      2015                   2020                     2026
+        python                     python                  python                    python 
+                               data analytics              data analytics             data analytics
+                                     R and Sa              machine learning          machine learning basics 
+                                                           deep learning             deep learning basics
+                                                                                     generative AI 
+                                                                                     - gpt 1.0 ( accurary 50%)
+                                                                                     - gpt 2.  ( 2020)
+                                                                                     - gpt 3    (2022) accurary 70%
+                                                                                     - gpt 3.5 ( 2023) accuracy 90%
+                                                                                     Agents 
+                                                                                      Agentic AI
+              
+              
+              
+          
+                                                                                     
+
+
+                                                                   Gen AI 
+ 2000                           2010                       2020                     2026
+            python                        pandasV1.0
+            automation                  ( data analytics)
+            web development
+
+                                          genai,agentic
+                                              |
+                                        pytorch ( DL library)
+                                              |
+                                        sklearn ( ML library)
+                                              |
+                                        visualisation libraries
+                                              |
+                                            pandas
+                                              |  
+                                            numpy ( matrix operations )
+                                              |
+                                            python
+
+
+java - 100 lines 
+python - 10 lines 
+pandas - 2 lines 
+
+
+
+
+
+
+
+chatgptv1  - 2020   - accuracy was poor 
+chatgpt3.  - 2022.  - accuracy was around 50-60%
+chatgpt3V2.- 2023.  - accuracy was 90%
+
+
+
+
+
+dotnet 
+java 
+
+c 
+c++
+
+C.      200 lines 
+java.   100 lines
+python  10 lines 
+- readable 
+- easy to understand 
+- easy to code 
+- community support 
+
+
+
+
+python 
+--------
+hello.py 
+hello.ipynb
+
+
+
+hello.py 
+---------
+- web apps 
+- automations 
+- deployments
+
+
+hello.ipynb ( notebooks or jupyter notebooks)
+---------------
+line by line execution 
+analytics 
+machine learning usecases
+
+
+
+
+
+
+
+
+
+
+
+task/requirement =   core programming     +   libraries      +     domain expertise 
+                     ( procedural or oop)
+
+
+
+
+
+python 
+python + analytics( pandas) 
+python+ machine learning ( before 2016)
+python + machine learning + deep learning ( 2022)
+python + ml + genai  ( 2024)
+python + ml + genai + agentic ai ( 2025)
+python + ml + genai + agentic ai + mcp ( 2026)
