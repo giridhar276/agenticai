@@ -1,5 +1,7 @@
 
 
+
+
 objects 
 - number
 - string
@@ -158,3 +160,135 @@ python + machine learning + deep learning ( 2022)
 python + ml + genai  ( 2024)
 python + ml + genai + agentic ai ( 2025)
 python + ml + genai + agentic ai + mcp ( 2026)
+
+
+
+sklearn library = scikitlearn  ( machine learning library )
+---------------------------------
+
+
+machine learning 
+------------------
+library contains algorithms 
+
+outcome from this library
+----------------------
+we can make predictions, classifications 
+
+
+
+NLP ( Natural language processing )
+======
+
+your prompt in chatgpt ----->  chunks -------> tokens ( numbers) ----> semantic search ---> output token ----> text 
+
+
+
+different ways to achieve NLP 
+----------------------
+
+1.using nltk library 
+
+2. using machine learning libraries ( sklearn)
+
+3. using deep learning libraries ( pytorch, keras )
+
+4. using genai libraries ( langchain ,langgraph )
+
+
+
+
+python 
+data analytics using pandas 
+visualisations 
+NLP 
+llms ( generative AI )
+agentic AI
+
+
+
+
+openai  - organization
+-------
+
+chatgpt is application name
+chatgpt is free of cost 
+
+gpt model 
+
+
+
+
+anthropic - organization 
+------------
+
+claude is app name 
+
+opus,sonnet,haiku model s
+
+
+
+
+from  langchain_openai import ChatOpenAI
+llm = ChatOpenAI(model = "gpt-3.5")
+llm.invoke("what is the sentiment of :I love python")
+
+
+
+virtual environment
+----------------------
+
+
+using venv library
+
+using  virtualenv library
+
+using conda library 
+
+using uv 
+
+
+using venv library
+----------------
+step1: create virtual environment
+        python -m venv myenv1 ( mac)
+        python3 -m venv myenv1 ( windows)
+
+step2: activate your virtual environment
+      mac: source myenv1/bin/activate
+      windows: .\myenv1\Scripts\activate
+
+step3: you will start working/installing packages 
+       if you want to crosscheck:
+       windows:   where python 
+       mac.   :   which python3
+step4: deactivate 
+
+
+Note: If you want the path of executable:
+which python ( mac)
+where python ( windows)
+
+
+#######################################################
+using uv 
+-------
+pip install uv
+
+step1: ensure that you are in global python/default python
+       ( also double check at the bottom right corner)
+
+step2: you want to initiate the project 
+        where am I currently : i am in the main folder agentcic
+
+step3: you want to create a project 
+       uv init genai 
+
+step4: I want to create virtual virtual environment
+       uv venv  ( venv is name of your virtual environment)
+
+step5: activate your environment
+       mac:  source .venv/bin/activate
+       windows:  .\.venv\Scripts\activate
+
+step6: uv add pandas 
