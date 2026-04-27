@@ -251,8 +251,8 @@ using uv
 using venv library
 ----------------
 step1: create virtual environment
-        python -m venv myenv1 ( mac)
-        python3 -m venv myenv1 ( windows)
+        python3 -m venv myenv1 ( mac)
+        python -m venv myenv1 ( windows)
 
 step2: activate your virtual environment
       mac: source myenv1/bin/activate
