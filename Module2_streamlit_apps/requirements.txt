@@ -1,0 +1,6 @@
+# Compatible package families for Python 3.11.9 (not an exact lockfile).
+streamlit>=1.40,<2
+langchain-openai>=0.3,<2
+python-dotenv>=1.0,<2
+pandas>=2.2,<3
+pydantic>=2.7,<3
