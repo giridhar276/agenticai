@@ -1,0 +1,1 @@
+Employee reported suspicious email with invoice attachment and look-alike supplier link. No click confirmed. Sender differs by one character from known supplier.

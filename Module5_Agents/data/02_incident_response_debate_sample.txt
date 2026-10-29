@@ -1,0 +1,1 @@
+10:05 AM checkout response time rose from 1 to 12 seconds. CPU is normal. Database connection pool is at 98%. Deployment occurred at 9:50 AM. Some users see timeouts.

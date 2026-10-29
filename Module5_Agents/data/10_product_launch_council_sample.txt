@@ -1,0 +1,1 @@
+Product: checkout works in staging. Reliability: 2 open high-severity defects. Support: FAQ and schedule ready. Compliance: privacy review pending. Criteria: no high-severity defects and privacy review complete.

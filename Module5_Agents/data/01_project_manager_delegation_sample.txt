@@ -1,0 +1,1 @@
+Payment feature launch delayed by 5 days. Testing found 3 medium defects. Customer launch is in 2 weeks.

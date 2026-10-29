@@ -1,0 +1,1 @@
+Supplier Alpha delayed a key component by 14 days. Stock covers 9 days. Backup supplier delivers in 7 days at 18% higher cost. A customer order is due in 10 days.
